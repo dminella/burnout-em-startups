@@ -1,0 +1,16 @@
+site_name: Burnout em startups brasileiras
+site_description: Prevenção da síndrome de burnout para pessoas que trabalham em startups brasileiras
+site_url: https://burnoutemstartups.com.br
+nav:
+  - Início: index.md
+  - O que é?: whatis.md
+  - Teste para auxiliar na identificação de sinais de burnout: score.md
+  - Prevenção: prevent.md
+  - Tratamento: treatment.md
+  - Sobre: about.md
+theme:
+    name: 'material'
+    favicon: 'images/favicon.ico'
+markdown_extensions:
+  - attr_list
+  - md_in_html
